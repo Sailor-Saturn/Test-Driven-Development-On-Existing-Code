@@ -7,8 +7,8 @@ final class Dollar {
         self.amount = amount
     }
     
-    func times(_ otherAmount: Int) {
-        amount = amount * 2
+    func times(_ multiplier: Int) {
+        amount = amount * multiplier
     }
 }
 
