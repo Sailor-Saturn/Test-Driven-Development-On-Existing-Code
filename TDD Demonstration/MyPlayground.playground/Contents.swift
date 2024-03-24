@@ -1,12 +1,13 @@
 import XCTest
 
 final class Dollar {
-    var amount: Int = 5 * 2
+    var amount: Int?
     
     init(_ amount: Int) {
     }
     
     func times(_ otherAmount: Int) {
+        amount = 5 * 2
     }
 }
 
