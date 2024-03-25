@@ -1,7 +1,5 @@
 # Test Driven Development Money Sample
 
-
-
 Hello 👋
 
 This is a money sample done on *Swift Playgrounds* to implement the conversion between two currencies using Test-Driven Development.
